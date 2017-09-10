@@ -1,0 +1,28 @@
+{
+  "name": "badmintonHall",
+  "version": "1.0.0",
+  "description": "## 羽毛球馆支持包",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha spec",
+    "index": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tws-practice/student-score-sheet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tws-practice/student-score-sheet/issues"
+  },
+  "homepage": "https://github.com/tws-practice/student-score-sheet#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.7",
+    "chai": "3.4.1",
+    "sinon": "1.17.2",
+    "mocha": "2.2.5",
+    "sinon-chai" : "2.8.0",
+    "lodash": "3.9.3"
+  }
+}
